@@ -129,7 +129,7 @@ void print_usage(const char *prog_name) {
   *
   * \post The specified operation is performed and the result is printed to the standard output.
   */
-int cli(int argc, char **argv) {
+int main(int argc, char **argv) {
     if (argc != 4) {
         print_usage(argv[0]);
         return 1;
