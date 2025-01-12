@@ -1,7 +1,7 @@
 # SafeCipher; Classical Ciphers with a Focus on Secure Coding
 
 ## Project Overview
-This project implements encryption and decryption functions for both the Caesar and Vigenère ciphers as part of UWA's CITS3007 course. It includes a command-line interface (CLI) to allow users to perform encryption and decryption tasks via terminal commands. The code incorporates secure coding practices such as input validation, memory safety, and error handling to ensure reliability and minimise security risks.
+This project implements encryption and decryption functions for both the Caesar and Vigenère ciphers as part of UWA's Secure Coding unit. It includes a command-line interface (CLI) to allow users to perform encryption and decryption tasks via terminal commands. The code incorporates secure coding practices such as input validation, memory safety, and error handling to ensure reliability and minimise security risks.
 
 ---
 
