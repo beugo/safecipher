@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -pedantic-errors -std=c11 -fsanitize=undefined,address,leak -Wconversion
 
-TARGET = cli
+TARGET = safecipher
 
 SRC = cli.c crypto.c
 
